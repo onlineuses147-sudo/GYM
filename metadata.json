@@ -1,0 +1,6 @@
+{
+  "name": "Mahadev Fitness & Gym",
+  "description": "Premium fitness website for Mahadev Fitness & Gym in Khammam, Telangana",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
